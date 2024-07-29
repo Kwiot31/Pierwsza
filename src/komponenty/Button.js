@@ -11,7 +11,7 @@ const Button = ({ text, style }) => {
     return (
         <div class="center-text">
             <button className="custom-button" onClick={handleClick} style={style}>
-                {text} Kliknij mnie ale co dalej
+                {text} Kliknij mnie ale co dalej po próbie na githubaasadsad
             </button>
             {message && <p>{message}</p>}
         </div>
