@@ -1,1 +1,1 @@
-
+<div class="tenor-gif-embed" data-postid="1073318009803420530" data-share-method="host" data-aspect-ratio="0.71875" data-width="100%"><a href="https://tenor.com/view/sky-clouds-lightning-gif-1073318009803420530">Sky Clouds GIF</a>from <a href="https://tenor.com/search/sky-gifs">Sky GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
